@@ -9,8 +9,18 @@
   },
   "dependencies": {
     "cypress": "^10.0.3",
+    "flowbite": "^1.8.1",
+    "flowbite-react": "^0.6.1",
     "next": "^12.1.5",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.20",
+    "@babel/preset-react": "^7.22.15",
+    "autoprefixer": "^10.4.16",
+    "babel-plugin-react-html-attrs": "^3.0.5",
+    "postcss": "^8.4.30",
+    "tailwindcss": "^3.3.3"
   }
 }
